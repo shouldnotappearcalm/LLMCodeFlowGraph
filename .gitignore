@@ -1,0 +1,14 @@
+.docusaurus/
+node_modules/
+# Project
+/.vs
+.vscode
+
+# Log files
+*.log
+
+# Python virtualenv
+.venv*
+
+.idea/*
+.DS_Store
